@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Imlicit intent kotlin</string>
+    <string name="note">Implementation of implicit intent to open gallery and choose image which will be displayed on screen below</string>
+</resources>
