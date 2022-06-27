@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
 //buildFeatures{
 //    dataBinding true
 //}
+//
 
 //the use <layout> and use binding in activity so that we can fast easily access id
 
